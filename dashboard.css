@@ -276,7 +276,7 @@ nav a i {
 
 .img {
     margin-top: 12px;
-    background-image: url(./asset/diaImg1.png);
+    background-image: url(diaImg1.png);
     background-size: contain;
     height: 180px;
     width: 400px;
